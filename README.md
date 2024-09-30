@@ -1,1 +1,1 @@
-# sem1Msc
+# sem1Msc notes for electronics and QM
